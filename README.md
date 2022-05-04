@@ -1,1 +1,1 @@
-# book_search
+# Homework week 21 - Full Stack MERN book search application
