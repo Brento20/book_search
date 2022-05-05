@@ -20,13 +20,11 @@ Repo: https://github.com/Brento20/book_search<br>
 
 ## Project Description
 
-REvamp is a web application designed to help empower people to repair, restore and improve the items in our lives that society has told us have become disposable.
+This web application allows a user to browse the google books API to select books they have read, add them to a database that is accessible using the user login details.
 
-Our users can see DIY projects by category that give them inspiration for their own life as well as contributing DIY instructions.
+The user is presented with a name, description and image for books that they search for.
 
-Developed in collaboration with:
-
-Miguel Afable, Mona Mahmoud and Brenton Weaver.
+The user can also remove these books from the database.
 
 <br>
 
